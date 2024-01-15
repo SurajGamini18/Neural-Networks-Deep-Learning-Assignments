@@ -1,6 +1,6 @@
 # Neural-Networks-Deep-Learning-Assignments
 ## Table of Contents
-- [Assignment 1](https://github.com/SurajGamini18/Machine-Learning-Assignments/tree/main/Assignment-1%20src)
+- [Assignment 1](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-1)
 
 ## Student Details:
 ### Student Id: 700744962
