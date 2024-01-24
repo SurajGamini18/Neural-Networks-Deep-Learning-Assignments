@@ -2,6 +2,7 @@
 ## Table of Contents
 - [Assignment 1](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-1)
 - [Assignment 2](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment%20-2)
+- [Assignmnet 3](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment%20-3)
 
 ## Student Details:
 ### Student Id: 700744962
