@@ -24,3 +24,13 @@ Neural Networks and Deep Learning Assignment 2 is done completely using Google C
 
 ## Video
 [Video on demonstrating the Assignment 1](https://drive.google.com/file/d/163fs1Zg0OzK5-jtXd-R5TyoYPwWuSrUb/view?usp=sharing) 
+
+
+## Short Descreption of Assignment 3:
+The ICP 3 assignment is about creating a class and constructor and performing operations of it. The second question is to use numpys and reshaping it.
+## Document
+[Document Describing about Assignment 3](https://drive.google.com/file/d/17FyyzVxsFY52u7d_bhMbv_PvAyOdCYRO/view?usp=sharing)
+
+## Video
+[Video on demonstrating the Assignment 3](https://drive.google.com/file/d/1xgqdDjjs6FlZKETHdPtUE_WB0CXTC2gN/view?usp=sharing) 
+
