@@ -36,3 +36,13 @@ The ICP 3 assignment is about creating a class and constructor and performing op
 ## Video
 [Video on demonstrating the Assignment 3](https://drive.google.com/file/d/1xgqdDjjs6FlZKETHdPtUE_WB0CXTC2gN/view?usp=sharing) 
 
+
+## Short Descreption of Assignment 4:
+The ICP 4 is about data manipulation and Linear Regression. Data manipulation involves processing and transforming raw data to make it suitable for analysis. It includes cleaning, structuring, and enriching raw data into a desired format. While Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables.
+## Document
+[Document Describing about Assignment 4](https://drive.google.com/file/d/1nRlMClQhWAU_JB2jbKzj_KvCOGmfcPev/view?usp=sharing)
+
+## Video
+[Video on demonstrating the Assignment 4](https://drive.google.com/file/d/11QQHx11gvbSUD1YaCACkKRa0pGilH6su/view?usp=sharing) 
+
+
