@@ -4,6 +4,7 @@
 - [Assignment 2](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment%20-2)
 - [Assignmnet 3](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment%20-3)
 - [Assignment 4](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-4)
+- [Assignment 5](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-5)
 
 ## Student Details:
 ### Student Id: 700744962
@@ -44,5 +45,16 @@ The ICP 4 is about data manipulation and Linear Regression. Data manipulation in
 
 ## Video
 [Video on demonstrating the Assignment 4](https://drive.google.com/file/d/11QQHx11gvbSUD1YaCACkKRa0pGilH6su/view?usp=sharing) 
+
+
+## Short Descreption of Assignment 5:
+The ICP 5 is about using naives Implement Naïve Bayes method and Linear SVM method using scikit-learn library. Use dataset available with name glass. Use train_test_split to create training and testing part. Evaluate the model on test part using score and classification report along with accuracy. 
+## Document
+[Document Describing about Assignment 5](https://drive.google.com/file/d/1sV_6UoxUdEKOpo8s7AkkgSYXKnxwRQcF/view?usp=sharing)
+
+## Video
+[Video on demonstrating the Assignment 5](https://drive.google.com/file/d/1KCXUxN9jdGee0h46VdZMz44PfHpcT4th/view?usp=sharing) 
+
+
 
 
