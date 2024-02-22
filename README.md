@@ -5,7 +5,7 @@
 - [Assignmnet 3](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment%20-3)
 - [Assignment 4](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-4)
 - [Assignment 5](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-5)
-
+- [Assignment 6]()
 ## Student Details:
 ### Student Id: 700744962
 ### Name: Venkata Suraj Gamini
@@ -54,6 +54,16 @@ The ICP 5 is about using naives Implement Naïve Bayes method and Linear SVM met
 
 ## Video
 [Video on demonstrating the Assignment 5](https://drive.google.com/file/d/1KCXUxN9jdGee0h46VdZMz44PfHpcT4th/view?usp=sharing) 
+
+
+## Short Descreption of Assignment 6:
+The ICP 6 is about implementing keras and finding accuracy and loss.
+## Document
+[Document Describing about Assignment 6](https://drive.google.com/file/d/1CVAiya9MtnvWYDUV8vixwuZUusvtN9G3/view?usp=sharing)
+
+## Video
+[Video on demonstrating the Assignment 6](https://drive.google.com/file/d/15UquAR5hBpA633bbkjgOfLn-5tJBJvVL/view?usp=sharing) 
+
 
 
 
