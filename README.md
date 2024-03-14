@@ -6,6 +6,7 @@
 - [Assignment 4](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-4)
 - [Assignment 5](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-5)
 - [Assignment 6](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-6)
+- [Assignment 7](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-7)
 ## Student Details:
 ### Student Id: 700744962
 ### Name: Venkata Suraj Gamini
