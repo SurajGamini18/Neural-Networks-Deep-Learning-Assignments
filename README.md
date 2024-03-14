@@ -66,6 +66,16 @@ The ICP 6 is about implementing keras and finding accuracy and loss.
 [Video on demonstrating the Assignment 6](https://drive.google.com/file/d/15UquAR5hBpA633bbkjgOfLn-5tJBJvVL/view?usp=sharing) 
 
 
+## Short Descreption of Assignment 7:
+The ICP 8 is about implementing image classification with CNN by using LeNet5, AlexNet, Vgg16, Vgg19.
+## Document
+[Document Describing about Assignment 7](https://docs.google.com/document/d/1KRrALKpd6DOHRjkx3q2pqIUGMpGbgCDo/edit?usp=share_link&ouid=115006250578410786078&rtpof=true&sd=true)
+
+## Video
+[Video on demonstrating the Assignment 7](https://drive.google.com/file/d/1nPOhmuskQLbnIAktRZ4Nadie5K2CCneo/view?usp=share_link) 
+
+
+
 
 
 
