@@ -7,6 +7,7 @@
 - [Assignment 5](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-5)
 - [Assignment 6](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-6)
 - [Assignment 7](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-7)
+- [Assignment 8](https://github.com/SurajGamini18/Neural-Networks-Deep-Learning-Assignments/tree/main/Assignment-8)
 ## Student Details:
 ### Student Id: 700744962
 ### Name: Venkata Suraj Gamini
@@ -73,6 +74,17 @@ The ICP 8 is about implementing image classification with CNN by using LeNet5, A
 
 ## Video
 [Video on demonstrating the Assignment 7](https://drive.google.com/file/d/1nPOhmuskQLbnIAktRZ4Nadie5K2CCneo/view?usp=share_link) 
+
+
+## Short Descreption of Assignment 8:
+The Assignment 8 is about implementing a hidden layer to autoencoder and prediction on the test data and then visualize one of the reconstructed version of that test data.
+Also, visualize the same test data before reconstruction using Matplotlib on autoencoder and denoising autoencoder and also plotting loss and accuracy.
+## Document
+[Document Describing about Assignment 8](https://docs.google.com/document/d/1RF12l6315QL3n8qctTikJB--o081VlPB/edit?usp=share_link&ouid=115006250578410786078&rtpof=true&sd=true)
+
+## Video
+[Video on demonstrating the Assignment 8](https://drive.google.com/file/d/17eSZRUweTYzhOw_riIK997NjhlQ_nEcZ/view?usp=share_link)
+
 
 
 
