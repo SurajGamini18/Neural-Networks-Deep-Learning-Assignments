@@ -87,6 +87,15 @@ Also, visualize the same test data before reconstruction using Matplotlib on aut
 [Video on demonstrating the Assignment 8](https://drive.google.com/file/d/17eSZRUweTYzhOw_riIK997NjhlQ_nEcZ/view?usp=share_link)
 
 
+## Short Descreption of Assignment 9:
+The Assignment 9 is about implementing Basics of LST, Types of RNN and a Use case of Sentiment Analysis on the Twitter data set and also apply GridSearchCV 
+## Document
+[Document Describing about Assignment 9](https://drive.google.com/file/d/1WbGkZ43TYz5Sm1E7JtyV6tdUCNsc9Ei1/view?usp=share_link)
+
+## Video
+[Video on demonstrating the Assignment 9](https://drive.google.com/file/d/1Pg1O73kh2dk15DqurVja6tciqTnvbQe8/view?usp=share_link)
+
+
 
 
 
